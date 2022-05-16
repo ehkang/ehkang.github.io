@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on 测试blog</title>
+    <title>Posts on 康康Blog-测试版</title>
     <link>http://ehkang.github.io/posts/</link>
-    <description>Recent content in Posts on 测试blog</description>
+    <description>Recent content in Posts on 康康Blog-测试版</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Mon, 16 May 2022 21:26:04 +0800</lastBuildDate><atom:link href="http://ehkang.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>测试标题</title>
+      <title>两只猫咪</title>
       <link>http://ehkang.github.io/posts/my-first-post/</link>
       <pubDate>Mon, 16 May 2022 21:26:04 +0800</pubDate>
       
       <guid>http://ehkang.github.io/posts/my-first-post/</guid>
-      <description>测试正文</description>
+      <description>测试正文 </description>
     </item>
     
   </channel>
