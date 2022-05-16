@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://blog.7soft.cn/posts/</loc>
+    <loc>http://ehkang.github.io/posts/</loc>
     <lastmod>2022-05-16T21:26:04+08:00</lastmod>
   </url><url>
-    <loc>http://blog.7soft.cn/</loc>
+    <loc>http://ehkang.github.io/</loc>
     <lastmod>2022-05-16T21:26:04+08:00</lastmod>
   </url><url>
-    <loc>http://blog.7soft.cn/posts/my-first-post/</loc>
+    <loc>http://ehkang.github.io/posts/my-first-post/</loc>
     <lastmod>2022-05-16T21:26:04+08:00</lastmod>
   </url><url>
-    <loc>http://blog.7soft.cn/categories/</loc>
+    <loc>http://ehkang.github.io/categories/</loc>
   </url><url>
-    <loc>http://blog.7soft.cn/tags/</loc>
+    <loc>http://ehkang.github.io/tags/</loc>
   </url>
 </urlset>

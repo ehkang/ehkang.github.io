@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>测试blog</title>
-    <link>http://blog.7soft.cn/</link>
+    <link>http://ehkang.github.io/</link>
     <description>Recent content on 测试blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 16 May 2022 21:26:04 +0800</lastBuildDate><atom:link href="http://blog.7soft.cn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 May 2022 21:26:04 +0800</lastBuildDate><atom:link href="http://ehkang.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>测试标题</title>
-      <link>http://blog.7soft.cn/posts/my-first-post/</link>
+      <link>http://ehkang.github.io/posts/my-first-post/</link>
       <pubDate>Mon, 16 May 2022 21:26:04 +0800</pubDate>
       
-      <guid>http://blog.7soft.cn/posts/my-first-post/</guid>
+      <guid>http://ehkang.github.io/posts/my-first-post/</guid>
       <description>测试正文</description>
     </item>
     
